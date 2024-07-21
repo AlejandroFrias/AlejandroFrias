@@ -2,6 +2,13 @@
 
 Hi there! Welcome to my public github profile! Thanks for visiting!
 
+## About me
+
+I started programming to get closer to my Dad. He (and my mother) studied CS in college. My dad kept up with it for a long career and my mother uses the skills all the time in her work.
+When my dad was sick with the flu (I was in high school at the time) his idea of a way to pass the time was call me into the bedroom to pair program a Soduke solver in Javascript!
+
+My favorite aspect of software engineering is learning new things and teaching others those things. The spirit of collaboration is strong in this community! My plan for a long time now has been to have a successful career in software development, then take what I've learned and give back by becoming a professor. Things seem to be going well so far to that end!
+
 ## Current Going Ons (as of 07/21/2024)
 
 ### Work
@@ -17,6 +24,8 @@ I am always learning. For ever a student (and teacher!).
 #### Courses
 Most recently, I've been taking the [JoyOfReact](https://www.joyofreact.com/) course (73% complete so far!).
 You can see my review of their course in my [course work](https://github.com/AlejandroFrias/JoyOfReact-CourseWork)
+
+I periodically take software courses and tutorials. Not just to hone my skills, but to hone my teaching skills. You may have heard that "teaching is the best way to learn". Well I take that a step further and like to also say that "learning is the best way to teach", as in giving others a chance to teach you is a great way to have them learn. So training myself as a student is training for being a teach. I also love to mentor others.
 
 #### Books
 
