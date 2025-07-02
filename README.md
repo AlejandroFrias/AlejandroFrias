@@ -12,10 +12,14 @@ My favorite aspect of software engineering is learning new things and teaching o
 ## Current Going Ons (as of 07/21/2024)
 
 ### Work
-I am currently working at LeftLane Software Inc., a vertical SaaS company aiming to deliver modern software solutions to independent car dealerships.
-I was the first engineer hire in 2022 and was promoted from Founding Engineer to Director of Engineering and Operations in 2024.
-
+I recently finished working at LeftLane Software Inc., a vertical SaaS company aiming to deliver modern software solutions to independent car dealerships.
 We built this application via [RedwoodJS](https://docs.redwoodjs.com/docs/introduction), a full-stack Javascript/Typescript framework featuring React, GraphQL, and Prisma.
+I was the first engineer hire there in 2022, was promoted from Founding Engineer to Director of Engineering and Operations in 2024 when the CEO left, and left the company after successfully finding new leadership for the company and transferring operations over so that I could focus on my new marriage and honeymoon.
+
+Now I'm open to work. I'm mission driven first and foremost.
+
+My full resume can be found here: [resume google doc](https://docs.google.com/document/d/1Ck_YuzgyXsNhVpRP1TdnRRoeGEzjI6Ho3o8jV4bP1VU/edit?usp=sharing)
+
 
 ### Learning
 
