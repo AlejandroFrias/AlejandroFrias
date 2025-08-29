@@ -18,7 +18,7 @@ I was the first engineer hire there in 2022, was promoted from Founding Engineer
 
 Now I'm open to work. I'm mission driven first and foremost. I'm filling my time working on some neglected personal projects, getting them ready for publishing on PyPI ([THunter](https://github.com/AlejandroFrias/thunter), a CLI TODO list with time tracking, and updates to [case-conversion](https://github.com/AlejandroFrias/case-conversion), a string conversion tool with unicode and acronym support.
 
-My full resume can be found here: [resume google doc](https://docs.google.com/document/d/1LIk_KKgYKqRBLadyOwX-MdSpXgdzJopu0jy2GejLC5M/edit?usp=sharing)
+My full resume can be found here: [resume google doc](https://docs.google.com/document/d/1xnRYzb7vtVKOR5FKr2Fvo10zMg3o0mGF8mLtoE5Rz_4/edit?usp=sharing)
 
 
 ### Learning
