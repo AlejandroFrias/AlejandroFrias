@@ -9,7 +9,7 @@ When my dad was sick with the flu (I was in high school at the time) his idea of
 
 My favorite aspect of software engineering is learning new things and teaching others those things. The spirit of collaboration is strong in this community! One day, when I'm done with being a software engineer, I'd like to be a teacher or professor. I'm not sure if I love creating with my own hands or enabling others to create. I'm pretty happy in both roles :)
 
-## Current Going Ons (as of 07/21/2024)
+## Current Going Ons (as of 07/21/2025)
 
 ### Work
 I recently finished working at LeftLane Software Inc., a vertical SaaS company aiming to deliver modern software solutions to independent car dealerships.
